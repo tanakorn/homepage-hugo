@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Haryadi S. Gunawi", "Mingzhe Hao", "Tanakorn Leesatapornwongsa", "Tiratat Patana-anake", "Thanh Do", "Jeffry Adityama", "Kurnia J. Eliazar", "Agung Laksono", "Jeffrey F. Lukman", "Vincentius Martin", "Anang D. Satria"]
+authors = ["Haryadi S. Gunawi", "Mingzhe Hao", "**Tanakorn Leesatapornwongsa**", "Tiratat Patana-anake", "Thanh Do", "Jeffry Adityama", "Kurnia J. Eliazar", "Agung Laksono", "Jeffrey F. Lukman", "Vincentius Martin", "Anang D. Satria"]
 date = "2014-01-01"
 image_preview = ""
 math = true

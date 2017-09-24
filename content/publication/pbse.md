@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Riza O. Suminto", "Cesar A. Stuardo", "Alexandra Clark", "Huan Ke", "Tanakorn Leesatapornwongsa", "Bo Fu", "Daniar H. Kurniawan", "Vincentius Martin", "Uma Maheswara Rao G.", "Haryadi S. Gunawi"]
+authors = ["Riza O. Suminto", "Cesar A. Stuardo", "Alexandra Clark", "Huan Ke", "**Tanakorn Leesatapornwongsa**", "Bo Fu", "Daniar H. Kurniawan", "Vincentius Martin", "Uma Maheswara Rao G.", "Haryadi S. Gunawi"]
 date = "2017-01-01"
 image_preview = ""
 math = true

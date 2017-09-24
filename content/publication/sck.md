@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Tanakorn Leesatapornwongsa", "Cesar A. Stuardo", "Riza O. Suminto", "Huan Ke", "Jeffrey F. Lukman", "Haryadi S. Gunawi"]
+authors = ["**Tanakorn Leesatapornwongsa**", "Cesar A. Stuardo", "Riza O. Suminto", "Huan Ke", "Jeffrey F. Lukman", "Haryadi S. Gunawi"]
 date = "2017-01-01"
 image_preview = ""
 math = true
