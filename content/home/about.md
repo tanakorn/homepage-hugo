@@ -39,9 +39,11 @@ America](http://www.sra.samsung.com/) in [Smart System
 Group](https://www.sra.samsung.com/about-us/distributed-systems/). My research
 interests cover distributed systems, cloud computing, and edge computing.
 
-Previously, I did my PhD at University of Chicago in UCARE group. I worked with
-[Prof. Haryadi Gunawi](http://people.cs.uchicago.edu/~haryadi/) in [UCARE
-group](http://ucare.cs.uchicago.edu/). My thesis focused on improving the
-dependability of cloud-scale distributed systems. My expertise on this topic
-involves distributed concurrency bugs combating and scalability checking.
+Previously, I did my PhD at University of Chicago. I worked with [Prof. Haryadi
+Gunawi](http://people.cs.uchicago.edu/~haryadi/) in [UCARE
+group](http://ucare.cs.uchicago.edu/). My
+[thesis](https://newtraell.cs.uchicago.edu/files/phd_paper/tanakorn.pdf)
+focused on improving the dependability of cloud-scale distributed systems. My
+expertise on this topic involves distributed concurrency bugs combating and
+scalability checking.
 
