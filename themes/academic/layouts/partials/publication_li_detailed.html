@@ -28,7 +28,7 @@
 
       <h3 class="article-title" itemprop="name">
         {{ if .Params.url_pdf }}
-        <a href="{{ .Params.url_pdf }}" itemprop="url">{{ .Title }}</a>
+        <a href="{{ .Params.url_pdf }}" target="_blank" itemprop="url">{{ .Title }}</a>
         {{ else }}
         {{ .Title }} 
         {{ end}}
