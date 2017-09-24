@@ -438,8 +438,9 @@ article {
 }
 
 .article-title a {
-  color: #151515;
-  transition: color 0.6s ease;
+  /*color: #151515;*/
+  color: #3170A5;
+  transition: color 0.3s ease;
 }
 
 .article-metadata {
@@ -544,7 +545,8 @@ article {
   line-height: normal;
   font-style: normal;
   font-size: 1rem;
-  color: #3170A5;
+  /*color: #3170A5;*/
+  color: #151515;
 }
 
 .pub-list-item .pub-publication {
