@@ -1,8 +1,8 @@
 +++
 # Recent and Upcoming Talks widget.
 
-date = "2016-04-20T00:00:00"
-draft = false
+date = "2017-09-23T00:00:00"
+draft = true
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
