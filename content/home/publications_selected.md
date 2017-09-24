@@ -21,5 +21,5 @@ list_format = 2
 
 +++
 
-For the complete list, please go to <a href="publications.html">publications page</a>
+For the complete list, please go to <a href="/~tanakorn/publication/">publications page</a>
 
