@@ -6,7 +6,7 @@
 date = 2017-09-23
 draft = false
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 widget = "publications_selected"
 
@@ -20,6 +20,4 @@ weight = 10
 list_format = 2
 
 +++
-
-For the complete list, please go to [publications page](publication/)
 
