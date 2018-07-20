@@ -15,7 +15,7 @@ weight = 1
     "Operating Systems",
     "Distributed Systems",
     "Cloud Computing",
-    "Edge Computing"
+    "IoT"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,9 +35,8 @@ weight = 1
 # Intro
 
 I am a researcher working at [Samsung Research
-America](http://www.sra.samsung.com/) in [Smart System
-Group](https://www.sra.samsung.com/about-us/distributed-systems/). My research
-interests cover distributed systems, cloud computing, and edge computing.
+America](http://www.sra.samsung.com/) in Smart System Group. My research
+interests cover distributed systems, cloud computing, and IoT.
 
 Previously, I did my PhD at University of Chicago. I worked with [Prof. Haryadi
 Gunawi](http://people.cs.uchicago.edu/~haryadi/) in [UCARE
