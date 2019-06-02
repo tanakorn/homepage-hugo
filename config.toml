@@ -1,6 +1,6 @@
 baseurl = "https://people.cs.uchicago.edu/~tanakorn/"  # End your URL with a `/` trailing slash.
 title = "Tanakorn Leesatapornwongsa"
-copyright = "&copy; 2017 Tanakorn Leesatapornwongsa"
+copyright = "&copy; 2019 Tanakorn Leesatapornwongsa"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,13 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Tanakorn Leesatapornwongsa"
-  role = "Senior Research Engineer"
-  organization = "Samsung Research America"
+  role = "Research Software Development Engineer"
+  organization = "Microsoft Research"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "t.leesatapor@samsung.com"
-  address = "Samsung Research America, 665 Clyde Ave, Mountain View, CA 94043, USA"
+  email = "taleesat@microsoft.com"
+  #address = ""
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:t.leesatapor@samsung.com"
+    link = "mailto:taleesat@microsoft.com"
 
 #  [[params.social]]
 #    icon = "twitter"

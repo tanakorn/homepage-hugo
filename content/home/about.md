@@ -34,11 +34,13 @@ weight = 1
 
 # Intro
 
-I am a researcher working at [Samsung Research
-America](http://www.sra.samsung.com/) in Smart System Group. My research
-interests cover distributed systems, cloud computing, and IoT.
+Currently, I am an RSDE working at Microsoft Research in Redmond. My research
+interest is in building dependable software systems.
 
-Previously, I did my PhD at University of Chicago. I worked with [Prof. Haryadi
+Before joining Microsoft, I worked at Samsung Research America in Smart System
+Group.
+
+I did my PhD at University of Chicago. I worked with [Prof. Haryadi
 Gunawi](http://people.cs.uchicago.edu/~haryadi/) in [UCARE
 group](http://ucare.cs.uchicago.edu/). My
 [thesis](https://newtraell.cs.uchicago.edu/files/phd_paper/tanakorn.pdf)
